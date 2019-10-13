@@ -1,0 +1,8 @@
+Simple animated form HTML with JS.
+
+Tech:
+  Pure css
+  Pure JS
+
+Based on Dev Ed course.
+13-10-2019
