@@ -49,7 +49,7 @@ body {
   outline: none;
 }
 
-div.innactive {
+div.inactive {
   opacity: 0;
   pointer-events: none;
   transition: translate(-50%, 50%);
